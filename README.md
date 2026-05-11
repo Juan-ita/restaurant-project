@@ -38,6 +38,8 @@ Through this project i learned how to:
 * Footer with social links
 * Customer Review Section
 
+-------------
+
 ## Technologies used
 * HTML 5
 * Git
